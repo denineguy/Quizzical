@@ -66,13 +66,13 @@
 
 .yellow_blob {
   position: absolute;
-  right: 0;
+  left: 66%;
   top: 0%;
 }
 
 .blue_blob {
   position: absolute;
-  top: 90%;
+  top: 68%;
   left: 0px;
 }
 

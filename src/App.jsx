@@ -30,8 +30,8 @@ export default function App() {
     }
     return (
         <div className="quiz_container">
-            <img src="../src/assets/yellow_blob.png" className="yellow_blob"/>
-            <img src="../src/assets/blue_blob.png" className="blue_blob"/>
+            <img src="../src/assets/yellow_blobs1.png" className="yellow_blob"/>
+            <img src="../src/assets/blue_blobs1.png" className="blue_blob"/>
             <h1 className="quiz_header">Quizzical</h1>
             <p className="quiz_subheader">Some description if needed</p>
             <p>isActive: {isActive ? "true": "false"}</p>
