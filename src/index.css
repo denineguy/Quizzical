@@ -16,11 +16,10 @@
 
 * {
   box-sizing: border-box;
-  background-color: #F5F7FB;
 }
 
 .quiz_container {
-  width: 1280px;
+  width: 100%;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -73,7 +72,7 @@
 .blue_blob {
   position: absolute;
   top: 68%;
-  left: 0px;
+  right: 75%;
 }
 
 p {
